@@ -1,0 +1,7 @@
+{
+    "app_name": "PC.node-pfht-pc",
+    "custom": {
+        "port": 8193,
+        "cdnSwitch": false
+    }
+}
